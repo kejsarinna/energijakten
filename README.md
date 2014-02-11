@@ -12,10 +12,10 @@ När mätaren når noll är det Game Over!
 Inga problem! Ladda ned koden här på GitHub.Det som finns i HTML-filen är bara rutan med spelet. 
 Om du har en sida som du vill ha rutan på så kopierar du canvas-taggen och det där emellan.
 
-	&lt;canvas id="backgroundCanvas" width="400" height="400"&gt;Your browser does not support canvas. Please try again with a different browser.&lt;/canvas&gt;<br>
-        &lt;canvas id="playerCanvas" width="400" height="400"&gt;&lt;/canvas&gt;<br>
-        &lt;canvas id="babyCanvas" width="400" height="400"&gt;&lt;/canvas&gt;<br>
-        &lt;canvas id="coffeeCanvas" width="400" height="400"&gt;&lt;/canvas&gt;
+	<code><canvas id="backgroundCanvas" width="400" height="400">Your browser does not support canvas. Please try again with a different browser.</canvas>
+	<canvas id="playerCanvas" width="400" height="400"></canvas>
+	<canvas id="babyCanvas" width="400" height="400"></canvas>
+	<canvas id="coffeeCanvas" width="400" height="400"></canvas> </code>
 
 Denna bit klistrar du in i din HTML-text till din sida där du vill ha spelet placerat.
 
